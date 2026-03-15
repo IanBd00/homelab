@@ -25,6 +25,10 @@ VirtualBox
 Ubuntu Server 24.04<br>
 Windows Server 2022
 
+🌐 Topologia da Rede
+
+![Topologia da Rede](topologia/topologia.png)
+
 ⚙️ Tecnologias Utilizadas
 
 • Linux;<br>
