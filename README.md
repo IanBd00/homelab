@@ -27,7 +27,7 @@ Windows Server 2022
 
 🌐 Topologia da Rede
 
-![Topologia da Rede](topologia/topologia.png)
+![Topologia da Rede](topologia/Topologia.png)
 
 ⚙️ Tecnologias Utilizadas
 
