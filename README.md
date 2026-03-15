@@ -1,7 +1,5 @@
 # HomeLab - Infraestrutura & Redes
 
-🧪 HomeLab — Infraestrutura, Redes & Cloud
-
 Laboratório virtual criado para estudo prático de infraestrutura, redes, sistemas e automação.<br>
 O objetivo deste projeto é simular um ambiente corporativo real, permitindo praticar administração de servidores, serviços de rede, monitoramento e troubleshooting.
 
