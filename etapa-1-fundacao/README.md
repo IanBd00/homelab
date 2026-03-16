@@ -1,7 +1,8 @@
 # Etapa 1: Fundação
 
 Topologia da rede:
-![Topologia da Rede](main/topologia/Topologia.png)
+
+![Topologia da Rede](topologia/Topologia.png)
 
 Versões usadas: 
 
