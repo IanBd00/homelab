@@ -2,7 +2,7 @@
 
 Topologia da rede:
 
-!(topologia/Topologia.png)
+![Topologia da Rede](../topologia/Topologia.png)
 
 Versões usadas: 
 
