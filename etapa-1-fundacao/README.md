@@ -2,7 +2,7 @@
 
 Topologia da rede:
 
-[Topologia de Rede](/topologia/Topologia.png)
+![Topologia da Rede](topologia/Topologia.png)
 
 Versões usadas: 
 
@@ -42,6 +42,7 @@ network:
       addresses:
         - 192.168.56.10/24
 ```
+</blockquote>
 
 Acertos e falhas:
 
