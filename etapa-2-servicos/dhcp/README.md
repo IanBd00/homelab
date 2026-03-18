@@ -4,10 +4,10 @@
 
 <blockquote>
 
-subnet 192.168.100.0 netmask 255.255.255.0 {
-  range 192.168.100.50 192.168.100.100;
-  option routers 192.168.100.1;
-  option domain-name-servers 192.168.100.10;
+subnet 192.168.100.0 netmask 255.255.255.0 {<br>
+  range 192.168.100.50 192.168.100.100;<br>
+  option routers 192.168.100.1;<br>
+  option domain-name-servers 192.168.100.10;<br>
 }
 
 
