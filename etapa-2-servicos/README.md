@@ -29,5 +29,5 @@ O DNS foi configurado para resolver nomes dentro da rede local.
 ### 🧪 Testes
 
 ```bash
-dig lab.local<br>
+dig lab.local
 nslookup lab.local
