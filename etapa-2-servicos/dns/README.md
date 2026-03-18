@@ -1,1 +1,19 @@
 # DNS
+
+<blockquote>
+   $TTL 604800
+@   IN  SOA ns1.lab.local. admin.lab.local. (
+            2024010101  ; Serial
+            3600        ; Refresh
+            1800        ; Retry
+            604800      ; Expire
+            604800 )    ; Negative Cache TTL
+
+@   IN  NS  ns1.lab.local.
+
+ns1             IN  A   192.168.100.10
+ubuntu-server   IN  A   192.168.100.10
+windows-server  IN  A   192.168.100.20
+
+
+ </blockquote>
